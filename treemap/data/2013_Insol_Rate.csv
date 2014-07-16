@@ -1,0 +1,349 @@
+Region,County,Local Authority,Rate
+North East,Hartlepool,Hartlepool, 31.0 
+North East,Middlesbrough,Middlesbrough, 23.2 
+North East,Redcar and Cleveland,Redcar and Cleveland, 27.1 
+North East,Stockton-on-Tees,Stockton-on-Tees, 27.2 
+North East,Darlington,Darlington, 28.0 
+North West,Halton,Halton, 40.2 
+North West,Warrington,Warrington, 32.0 
+North West,Blackburn with Darwen,Blackburn with Darwen, 24.9 
+North West,Blackpool,Blackpool, 40.8 
+Yorkshire and The Humber,"Kingston upon Hull, City of","Kingston upon Hull, City of", 39.6 
+Yorkshire and The Humber,East Riding of Yorkshire,East Riding of Yorkshire, 21.2 
+Yorkshire and The Humber,North East Lincolnshire,North East Lincolnshire, 28.2 
+Yorkshire and The Humber,North Lincolnshire,North Lincolnshire, 25.9 
+Yorkshire and The Humber,York,York, 20.0 
+East Midlands,Derby,Derby, 21.0 
+East Midlands,Leicester,Leicester, 21.2 
+East Midlands,Rutland,Rutland, 17.1 
+East Midlands,Nottingham,Nottingham, 20.3 
+West Midlands,"Herefordshire, County of","Herefordshire, County of", 23.5 
+West Midlands,Telford and Wrekin,Telford and Wrekin, 29.4 
+West Midlands,Stoke-on-Trent,Stoke-on-Trent, 39.5 
+South West,Bath and North East Somerset,Bath and North East Somerset, 24.6 
+South West,"Bristol, City of","Bristol, City of", 25.0 
+South West,North Somerset,North Somerset, 32.2 
+South West,South Gloucestershire,South Gloucestershire, 23.0 
+South West,Plymouth,Plymouth, 33.2 
+South West,Torbay,Torbay, 47.2 
+South West,Bournemouth,Bournemouth, 21.3 
+South West,Poole,Poole, 20.9 
+South West,Swindon,Swindon, 34.4 
+East of England,Peterborough,Peterborough, 29.5 
+East of England,Luton,Luton, 17.8 
+East of England,Southend-on-Sea,Southend-on-Sea, 19.4 
+East of England,Thurrock,Thurrock, 25.7 
+South East,Medway,Medway, 24.0 
+South East,Bracknell Forest,Bracknell Forest, 18.2 
+South East,West Berkshire,West Berkshire, 19.1 
+South East,Reading,Reading, 14.5 
+South East,Slough,Slough, 19.5 
+South East,Windsor and Maidenhead,Windsor and Maidenhead, 13.9 
+South East,Wokingham,Wokingham, 11.0 
+South East,Milton Keynes,Milton Keynes, 21.4 
+South East,Brighton and Hove,Brighton and Hove, 17.0 
+South East,Portsmouth,Portsmouth, 22.6 
+South East,Southampton,Southampton, 17.8 
+South East,Isle of Wight,Isle of Wight, 33.9 
+North East,County Durham,County Durham, 34.0 
+North East,Northumberland,Northumberland, 32.6 
+North West,Cheshire East,Cheshire East, 22.8 
+North West,Cheshire West and Chester,Cheshire West and Chester, 28.4 
+West Midlands,Shropshire,Shropshire, 20.5 
+South West,Cornwall,Cornwall, 32.8 
+South West,Isles of Scilly,Isles of Scilly, 5.3 
+South West,Wiltshire,Wiltshire, 24.0 
+East of England,Bedford,Bedford, 28.5 
+East of England,Central Bedfordshire,Central Bedfordshire, 20.1 
+South East,Buckinghamshire,Aylesbury Vale, 17.4 
+South East,Buckinghamshire,Chiltern, 14.4 
+South East,Buckinghamshire,South Bucks, 16.9 
+South East,Buckinghamshire,Wycombe, 13.9 
+East of England,Cambridgeshire,Cambridge, 11.4 
+East of England,Cambridgeshire,East Cambridgeshire, 17.9 
+East of England,Cambridgeshire,Fenland, 28.0 
+East of England,Cambridgeshire,Huntingdonshire, 24.0 
+East of England,Cambridgeshire,South Cambridgeshire, 17.1 
+North West,Cumbria,Allerdale, 23.9 
+North West,Cumbria,Barrow-in-Furness, 24.4 
+North West,Cumbria,Carlisle, 28.4 
+North West,Cumbria,Copeland, 29.7 
+North West,Cumbria,Eden, 17.4 
+North West,Cumbria,South Lakeland, 17.0 
+East Midlands,Derbyshire,Amber Valley, 21.6 
+East Midlands,Derbyshire,Bolsover, 29.8 
+East Midlands,Derbyshire,Chesterfield, 31.7 
+East Midlands,Derbyshire,Derbyshire Dales, 17.9 
+East Midlands,Derbyshire,Erewash, 23.5 
+East Midlands,Derbyshire,High Peak, 23.7 
+East Midlands,Derbyshire,North East Derbyshire, 26.1 
+East Midlands,Derbyshire,South Derbyshire, 23.2 
+South West,Devon,East Devon, 18.9 
+South West,Devon,Exeter, 26.5 
+South West,Devon,Mid Devon, 24.7 
+South West,Devon,North Devon, 30.9 
+South West,Devon,South Hams, 29.1 
+South West,Devon,Teignbridge, 27.2 
+South West,Devon,Torridge, 29.9 
+South West,Devon,West Devon, 27.5 
+South West,Dorset,Christchurch, 19.4 
+South West,Dorset,East Dorset, 18.2 
+South West,Dorset,North Dorset, 17.1 
+South West,Dorset,Purbeck, 19.2 
+South West,Dorset,West Dorset, 26.8 
+South West,Dorset,Weymouth and Portland, 26.5 
+South East,East Sussex,Eastbourne, 28.5 
+South East,East Sussex,Hastings, 33.9 
+South East,East Sussex,Lewes, 18.9 
+South East,East Sussex,Rother, 21.2 
+South East,East Sussex,Wealden, 18.8 
+East of England,Essex,Basildon, 23.6 
+East of England,Essex,Braintree, 25.2 
+East of England,Essex,Brentwood, 18.6 
+East of England,Essex,Castle Point, 21.4 
+East of England,Essex,Chelmsford, 12.4 
+East of England,Essex,Colchester, 20.2 
+East of England,Essex,Epping Forest, 20.5 
+East of England,Essex,Harlow, 28.3 
+East of England,Essex,Maldon, 21.0 
+East of England,Essex,Rochford, 16.9 
+East of England,Essex,Tendring, 29.4 
+East of England,Essex,Uttlesford, 19.6 
+South West,Gloucestershire,Cheltenham, 17.8 
+South West,Gloucestershire,Cotswold, 16.5 
+South West,Gloucestershire,Forest of Dean, 23.5 
+South West,Gloucestershire,Gloucester, 33.0 
+South West,Gloucestershire,Stroud, 21.4 
+South West,Gloucestershire,Tewkesbury, 20.4 
+South East,Hampshire,Basingstoke and Deane, 19.8 
+South East,Hampshire,East Hampshire, 17.4 
+South East,Hampshire,Eastleigh, 22.8 
+South East,Hampshire,Fareham, 19.4 
+South East,Hampshire,Gosport, 28.3 
+South East,Hampshire,Hart, 12.7 
+South East,Hampshire,Havant, 23.5 
+South East,Hampshire,New Forest, 16.5 
+South East,Hampshire,Rushmoor, 21.3 
+South East,Hampshire,Test Valley, 16.4 
+South East,Hampshire,Winchester, 13.9 
+East of England,Hertfordshire,Broxbourne, 19.3 
+East of England,Hertfordshire,Dacorum, 22.0 
+East of England,Hertfordshire,East Hertfordshire, 15.3 
+East of England,Hertfordshire,Hertsmere, 16.1 
+East of England,Hertfordshire,North Hertfordshire, 17.3 
+East of England,Hertfordshire,St Albans, 10.5 
+East of England,Hertfordshire,Stevenage, 24.1 
+East of England,Hertfordshire,Three Rivers, 18.1 
+East of England,Hertfordshire,Watford, 17.6 
+East of England,Hertfordshire,Welwyn Hatfield, 17.2 
+South East,Kent,Ashford, 20.6 
+South East,Kent,Canterbury, 15.3 
+South East,Kent,Dartford, 19.4 
+South East,Kent,Dover, 21.3 
+South East,Kent,Gravesham, 23.4 
+South East,Kent,Maidstone, 20.0 
+South East,Kent,Sevenoaks, 14.1 
+South East,Kent,Shepway, 29.6 
+South East,Kent,Swale, 26.4 
+South East,Kent,Thanet, 26.5 
+South East,Kent,Tonbridge and Malling, 22.4 
+South East,Kent,Tunbridge Wells, 16.0 
+North West,Lancashire,Burnley, 23.6 
+North West,Lancashire,Chorley, 27.6 
+North West,Lancashire,Fylde, 21.2 
+North West,Lancashire,Hyndburn, 30.1 
+North West,Lancashire,Lancaster, 21.7 
+North West,Lancashire,Pendle, 24.4 
+North West,Lancashire,Preston, 26.0 
+North West,Lancashire,Ribble Valley, 17.0 
+North West,Lancashire,Rossendale, 34.3 
+North West,Lancashire,South Ribble, 24.8 
+North West,Lancashire,West Lancashire, 20.5 
+North West,Lancashire,Wyre, 21.6 
+East Midlands,Leicestershire,Blaby, 14.9 
+East Midlands,Leicestershire,Charnwood, 24.3 
+East Midlands,Leicestershire,Harborough, 20.2 
+East Midlands,Leicestershire,Hinckley and Bosworth, 21.3 
+East Midlands,Leicestershire,Melton, 22.3 
+East Midlands,Leicestershire,North West Leicestershire, 23.4 
+East Midlands,Leicestershire,Oadby and Wigston, 16.7 
+East Midlands,Lincolnshire,Boston, 27.9 
+East Midlands,Lincolnshire,East Lindsey, 30.3 
+East Midlands,Lincolnshire,Lincoln, 27.1 
+East Midlands,Lincolnshire,North Kesteven, 23.3 
+East Midlands,Lincolnshire,South Holland, 19.4 
+East Midlands,Lincolnshire,South Kesteven, 39.8 
+East Midlands,Lincolnshire,West Lindsey, 24.4 
+East of England,Norfolk,Breckland, 26.9 
+East of England,Norfolk,Broadland, 18.2 
+East of England,Norfolk,Great Yarmouth, 29.5 
+East of England,Norfolk,King's Lynn and West Norfolk, 26.6 
+East of England,Norfolk,North Norfolk, 22.3 
+East of England,Norfolk,Norwich, 29.5 
+East of England,Norfolk,South Norfolk, 18.2 
+East Midlands,Northamptonshire,Corby, 35.9 
+East Midlands,Northamptonshire,Daventry, 23.1 
+East Midlands,Northamptonshire,East Northamptonshire, 28.2 
+East Midlands,Northamptonshire,Kettering, 28.3 
+East Midlands,Northamptonshire,Northampton, 29.5 
+East Midlands,Northamptonshire,South Northamptonshire, 17.5 
+East Midlands,Northamptonshire,Wellingborough, 28.3 
+Yorkshire and The Humber,North Yorkshire,Craven, 20.4 
+Yorkshire and The Humber,North Yorkshire,Hambleton, 20.2 
+Yorkshire and The Humber,North Yorkshire,Harrogate, 17.1 
+Yorkshire and The Humber,North Yorkshire,Richmondshire, 24.9 
+Yorkshire and The Humber,North Yorkshire,Ryedale, 23.5 
+Yorkshire and The Humber,North Yorkshire,Scarborough, 40.6 
+Yorkshire and The Humber,North Yorkshire,Selby, 24.4 
+East Midlands,Nottinghamshire,Ashfield, 28.5 
+East Midlands,Nottinghamshire,Bassetlaw, 27.2 
+East Midlands,Nottinghamshire,Broxtowe, 19.2 
+East Midlands,Nottinghamshire,Gedling, 18.0 
+East Midlands,Nottinghamshire,Mansfield, 40.4 
+East Midlands,Nottinghamshire,Newark and Sherwood, 29.6 
+East Midlands,Nottinghamshire,Rushcliffe, 12.9 
+South East,Oxfordshire,Cherwell, 17.9 
+South East,Oxfordshire,Oxford, 18.0 
+South East,Oxfordshire,South Oxfordshire, 15.3 
+South East,Oxfordshire,Vale of White Horse, 16.7 
+South East,Oxfordshire,West Oxfordshire, 14.5 
+South West,Somerset,Mendip, 22.7 
+South West,Somerset,Sedgemoor, 24.7 
+South West,Somerset,South Somerset, 23.7 
+South West,Somerset,Taunton Deane, 22.6 
+South West,Somerset,West Somerset, 24.2 
+West Midlands,Staffordshire,Cannock Chase, 39.3 
+West Midlands,Staffordshire,East Staffordshire, 19.3 
+West Midlands,Staffordshire,Lichfield, 19.8 
+West Midlands,Staffordshire,Newcastle-under-Lyme, 27.6 
+West Midlands,Staffordshire,South Staffordshire, 23.4 
+West Midlands,Staffordshire,Stafford, 17.8 
+West Midlands,Staffordshire,Staffordshire Moorlands, 23.6 
+West Midlands,Staffordshire,Tamworth, 36.7 
+East of England,Suffolk,Babergh, 26.0 
+East of England,Suffolk,Forest Heath, 30.9 
+East of England,Suffolk,Ipswich, 38.6 
+East of England,Suffolk,Mid Suffolk, 24.9 
+East of England,Suffolk,St Edmundsbury, 28.6 
+East of England,Suffolk,Suffolk Coastal, 19.8 
+East of England,Suffolk,Waveney, 28.0 
+South East,Surrey,Elmbridge, 13.8 
+South East,Surrey,Epsom and Ewell, 10.4 
+South East,Surrey,Guildford, 13.8 
+South East,Surrey,Mole Valley, 13.9 
+South East,Surrey,Reigate and Banstead, 16.6 
+South East,Surrey,Runnymede, 14.6 
+South East,Surrey,Spelthorne, 16.8 
+South East,Surrey,Surrey Heath, 15.6 
+South East,Surrey,Tandridge, 16.0 
+South East,Surrey,Waverley, 16.7 
+South East,Surrey,Woking, 14.8 
+West Midlands,Warwickshire,North Warwickshire, 27.7 
+West Midlands,Warwickshire,Nuneaton and Bedworth, 26.9 
+West Midlands,Warwickshire,Rugby, 23.2 
+West Midlands,Warwickshire,Stratford-on-Avon, 22.9 
+West Midlands,Warwickshire,Warwick, 15.7 
+South East,West Sussex,Adur, 20.8 
+South East,West Sussex,Arun, 22.2 
+South East,West Sussex,Chichester, 20.7 
+South East,West Sussex,Crawley, 23.8 
+South East,West Sussex,Horsham, 16.4 
+South East,West Sussex,Mid Sussex, 17.9 
+South East,West Sussex,Worthing, 21.5 
+West Midlands,Worcestershire,Bromsgrove, 15.7 
+West Midlands,Worcestershire,Malvern Hills, 20.3 
+West Midlands,Worcestershire,Redditch, 32.1 
+West Midlands,Worcestershire,Worcester, 18.6 
+West Midlands,Worcestershire,Wychavon, 23.9 
+West Midlands,Worcestershire,Wyre Forest, 29.4 
+North West,Greater Manchester,Bolton, 22.7 
+North West,Greater Manchester,Bury, 28.4 
+North West,Greater Manchester,Manchester, 23.1 
+North West,Greater Manchester,Oldham, 21.4 
+North West,Greater Manchester,Rochdale, 21.2 
+North West,Greater Manchester,Salford, 27.4 
+North West,Greater Manchester,Stockport, 23.4 
+North West,Greater Manchester,Tameside, 27.9 
+North West,Greater Manchester,Trafford, 19.1 
+North West,Greater Manchester,Wigan, 27.3 
+North West,Merseyside,Knowsley, 25.7 
+North West,Merseyside,Liverpool, 26.0 
+North West,Merseyside,St. Helens, 30.2 
+North West,Merseyside,Sefton, 28.0 
+North West,Merseyside,Wirral, 24.9 
+Yorkshire and The Humber,South Yorkshire,Barnsley, 30.8 
+Yorkshire and The Humber,South Yorkshire,Doncaster, 35.4 
+Yorkshire and The Humber,South Yorkshire,Rotherham, 28.0 
+Yorkshire and The Humber,South Yorkshire,Sheffield, 24.1 
+North East,Tyne and Wear,Gateshead, 36.1 
+North East,Tyne and Wear,Newcastle upon Tyne, 25.4 
+North East,Tyne and Wear,North Tyneside, 30.4 
+North East,Tyne and Wear,South Tyneside, 28.8 
+North East,Tyne and Wear,Sunderland, 33.3 
+West Midlands,West Midlands,Birmingham, 17.9 
+West Midlands,West Midlands,Coventry, 18.5 
+West Midlands,West Midlands,Dudley, 20.5 
+West Midlands,West Midlands,Sandwell, 23.0 
+West Midlands,West Midlands,Solihull, 18.6 
+West Midlands,West Midlands,Walsall, 30.4 
+West Midlands,West Midlands,Wolverhampton, 23.4 
+Yorkshire and The Humber,West Yorkshire,Bradford, 21.2 
+Yorkshire and The Humber,West Yorkshire,Calderdale, 21.3 
+Yorkshire and The Humber,West Yorkshire,Kirklees, 23.8 
+Yorkshire and The Humber,West Yorkshire,Leeds, 18.3 
+Yorkshire and The Humber,West Yorkshire,Wakefield, 24.5 
+London,Greater London,City of London, 11.7 
+London,Greater London,Barking and Dagenham, 25.0 
+London,Greater London,Barnet, 10.3 
+London,Greater London,Bexley, 16.2 
+London,Greater London,Brent, 10.1 
+London,Greater London,Bromley, 14.5 
+London,Greater London,Camden, 9.2 
+London,Greater London,Croydon, 16.2 
+London,Greater London,Ealing, 12.0 
+London,Greater London,Enfield, 14.0 
+London,Greater London,Greenwich, 19.9 
+London,Greater London,Hackney, 12.8 
+London,Greater London,Hammersmith and Fulham, 11.1 
+London,Greater London,Haringey, 13.0 
+London,Greater London,Harrow, 10.6 
+London,Greater London,Havering, 17.1 
+London,Greater London,Hillingdon, 14.8 
+London,Greater London,Hounslow, 16.7 
+London,Greater London,Islington, 15.1 
+London,Greater London,Kensington and Chelsea, 11.4 
+London,Greater London,Kingston upon Thames, 12.7 
+London,Greater London,Lambeth, 12.8 
+London,Greater London,Lewisham, 15.4 
+London,Greater London,Merton, 11.7 
+London,Greater London,Newham, 16.5 
+London,Greater London,Redbridge, 15.8 
+London,Greater London,Richmond upon Thames, 10.9 
+London,Greater London,Southwark, 12.9 
+London,Greater London,Sutton, 16.7 
+London,Greater London,Tower Hamlets, 15.3 
+London,Greater London,Waltham Forest, 17.3 
+London,Greater London,Wandsworth, 9.2 
+London,Greater London,Westminster, 9.3 
+Wales,Isle of Anglesey,Isle of Anglesey, 22.8 
+Wales,Gwynedd,Gwynedd, 23.8 
+Wales,Conwy,Conwy, 27.5 
+Wales,Denbighshire,Denbighshire, 43.0 
+Wales,Flintshire,Flintshire, 29.2 
+Wales,Wrexham,Wrexham, 27.7 
+Wales,Powys,Powys, 20.4 
+Wales,Ceredigion,Ceredigion, 13.9 
+Wales,Pembrokeshire,Pembrokeshire, 21.9 
+Wales,Carmarthenshire,Carmarthenshire, 21.8 
+Wales,Swansea,Swansea, 23.6 
+Wales,Neath Port Talbot,Neath Port Talbot, 24.4 
+Wales,Bridgend,Bridgend, 24.6 
+Wales,The Vale of Glamorgan,The Vale of Glamorgan, 17.5 
+Wales,Cardiff,Cardiff, 19.5 
+Wales,Rhondda Cynon Taf,Rhondda Cynon Taf, 30.2 
+Wales,Merthyr Tydfil,Merthyr Tydfil, 28.8 
+Wales,Caerphilly,Caerphilly, 25.7 
+Wales,Blaenau Gwent,Blaenau Gwent, 30.9 
+Wales,Torfaen,Torfaen, 25.4 
+Wales,Monmouthshire,Monmouthshire, 18.8 
+Wales,Newport,Newport, 25.3 
