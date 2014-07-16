@@ -12,7 +12,7 @@ $( document ).ready(function() {
 		var nested_data = d3.nest()
 			.key(function(d)  { return d.Region; })
 			.key(function(d)  { return d.County; })
-			.key(function(d)  { return d.Local Authority; })
+			.key(function(d)  { return d.Local_Authority; })
 			.entries(csv_data);
 
 		// Creat the root node for the treemap
